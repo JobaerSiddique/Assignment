@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.head-img{
+    width: 250px;
+    
+}
+.head2{
+    width: 350px;
+    margin-left: 60px;
+}
+.head-sec{
+    background-color: rgb(240, 233, 225);
+    height: 500px;
+}
+.card-img{
+   padding-top: 20px;
+    width: 350px;
+    height: 400px;
+    margin: 0 auto;
+    border: 1px solid rgb(238, 231, 231);
+    background-color: rgb(240, 232, 232);
+    border-radius: 30px;
+}
+.text2{
+    font-size: 30px;
+}
+.section-bo{
+    border: none;
+}
+.card-jacket{
+    border: 0;
+    border-radius: 20px;
+}
+.head-text{
+    color: rgba(245, 174, 41, 0.952);
+    font-weight: bolder;
+    font-size: 50px;
+   
+}
+.head3{
+    color: rgba(16, 16, 77, 0.931);
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+.card-ti{
+    color: darkblue;
+    font-weight: bold;
+}
+.last{
+   margin-top: 29px;
+}
+.button{
+    padding:10px 40px;
+}
+.selling{
+    border-radius: 20px;
+}
+.card-work{
+    height: 600px;
+}
