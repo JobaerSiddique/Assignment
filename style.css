@@ -15,7 +15,7 @@ body{
 }
 .card-img{
    padding-top: 20px;
-    width: 350px;
+    width: 300px;
     height: 400px;
     margin: 0 auto;
     border: 1px solid rgb(238, 231, 231);
@@ -59,4 +59,7 @@ body{
 }
 .card-work{
     height: 600px;
+}
+.height{
+    height: 639px;
 }
